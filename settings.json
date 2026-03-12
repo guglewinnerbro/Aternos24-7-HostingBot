@@ -1,13 +1,13 @@
 {
-  "name": "24/7",
+  "name": "bot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HansikaMeriCrushHai.aternos.me",
-    "port": 54525,
+    "ip": "kknowns.aternos.me",
+    "port": 20338,
     "version": "",
     "try-creative": false
   },
